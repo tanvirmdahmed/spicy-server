@@ -1,0 +1,319 @@
+[
+    {
+        "id": "123456",
+        "chefName": "Madison Chartres",
+        "chefPicture": "https://i.ibb.co/vssS9Gc/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718-1.jpg",
+        "bio": "Madison Chartres is a renowned chef with over 20 years of experience. He has worked in some of the best restaurants in the world, and his dishes have won numerous awards.",
+        "numRecipes": 3,
+        "yearsExperience": 7,
+        "likes": 500,
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "ingredients": [
+                    "salmon",
+                    "olive oil",
+                    "lemon",
+                    "garlic",
+                    "salt"
+                ],
+                "cookingMethod": "Grill the salmon for 5 minutes on each side. Squeeze some lemon juice over it and sprinkle with salt.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "pasta",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "cookingMethod": "Cook the pasta according to package instructions. Fry the bacon until crispy. Beat the eggs with parmesan cheese and black pepper. Drain the pasta and add it to the pan with the bacon. Remove from heat and add the egg mixture, stirring constantly.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Stew",
+                "ingredients": [
+                    "beef",
+                    "carrots",
+                    "potatoes",
+                    "onions",
+                    "tomatoes"
+                ],
+                "cookingMethod": "Brown the beef in a pot. Add the vegetables and tomatoes, and enough water to cover. Simmer for 2-3 hours until the beef is tender.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "987654",
+        "chefName": "Leah Loureiro",
+        "chefPicture": "https://i.ibb.co/hCSHXqS/how-to-become-a-chef-1.jpg",
+        "bio": "Leah Loureiro is a rising star in the culinary world. She has trained under some of the top chefs in the industry, and her innovative dishes have won her many fans.",
+        "numRecipes": 3,
+        "yearsExperience": 8,
+        "likes": 200,
+        "recipes": [
+            {
+                "recipeName": "Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "white wine",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cookingMethod": "Saute some onions and garlic in butter. Add the rice and stir until it's coated. Add the wine and let it evaporate. Add the broth one ladle at a time, stirring constantly until the rice is cooked. Add parmesan cheese and more butter if desired.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "eggplant",
+                    "zucchini",
+                    "red bell pepper",
+                    "onion",
+                    "garlic"
+                ],
+                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "rating": 4.0
+            },
+            {
+                "recipeName": "Shrimp Scampi",
+                "ingredients": [
+                    "shrimp",
+                    "butter",
+                    "garlic",
+                    "lemon juice",
+                    "white wine"
+                ],
+                "cookingMethod": "Melt butter in a pan. Add garlic and cook until fragrant. Add the shrimp and cook until pink. Add lemon juice and white wine, and cook for another minute or two. Serve with pasta.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "246810",
+        "chefName": "Amelie Borella",
+        "chefPicture": "https://i.ibb.co/6DVn5Lf/CIV-Sept-26-1.png",
+        "bio": "Amelie Borella MBE is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants.",
+        "numRecipes": 4,
+        "yearsExperience": 6,
+        "likes": 800000,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "parmesan",
+                    "pine nuts"
+                ],
+                "cookingMethod": "Cook the pasta according to package directions. In a blender, combine the basil, garlic, parmesan, and pine nuts. Add olive oil as needed to make a smooth paste. Toss the pesto with the cooked pasta and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Grilled Salmon",
+                "ingredients": [
+                    "salmon",
+                    "olive oil",
+                    "lemon",
+                    "garlic",
+                    "salt"
+                ],
+                "cookingMethod": "Grill the salmon for 5 minutes on each side. Squeeze some lemon juice over it and sprinkle with salt.",
+                "rating": 4.5
+            },
+            {
+                "name": "Grilled Chicken with Herb Marinade",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Lemon",
+                    "Garlic",
+                    "Olive oil",
+                    "Rosemary"
+                ],
+                "cookingMethod": "Mix lemon juice, garlic, olive oil, and rosemary together to make a marinade. Marinate chicken breasts for at least an hour. Grill until cooked through.",
+                "rating": 4.2
+            },
+            {
+                "name": "Fish and Chips",
+                "ingredients": [
+                    "white fish",
+                    "potatoes",
+                    "flour",
+                    "egg",
+                    "breadcrumbs"
+                ],
+                "cookingMethod": "Preheat oven to 200C. Cut the potatoes into wedges and place on a baking sheet. Drizzle with olive oil and bake for 20-25 minutes. Cut the fish into portions. Dredge in flour, dip in beaten egg, and coat with breadcrumbs. Fry until golden brown. Serve with the roasted potatoes.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "135790",
+        "chefName": "Gordon Ramsay",
+        "chefPicture": "https://i.ibb.co/kK6yyZD/shutterstock-1518533924-min-1.jpg",
+        "description": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality.",
+        "numRecipes": 5,
+        "yearsExperience": 10,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "eggplant",
+                    "zucchini",
+                    "red bell pepper",
+                    "onion",
+                    "garlic"
+                ],
+                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "rating": 4.0
+            },
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "prosciutto",
+                    "egg"
+                ],
+                "cookingMethod": "Preheat the oven to 200C. Sear the beef fillet in a hot pan with olive oil, then wrap it in prosciutto and mushrooms. Roll out the puff pastry and wrap it around the beef. Brush with egg and bake for 25-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Fish and Chips",
+                "ingredients": [
+                    "white fish",
+                    "potatoes",
+                    "flour",
+                    "egg",
+                    "breadcrumbs"
+                ],
+                "cookingMethod": "Preheat oven to 200C. Cut the potatoes into wedges and place on a baking sheet. Drizzle with olive oil and bake for 20-25 minutes. Cut the fish into portions. Dredge in flour, dip in beaten egg, and coat with breadcrumbs. Fry until golden brown. Serve with the roasted potatoes.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lamb Rack",
+                "ingredients": [
+                    "lamb rack",
+                    "rosemary",
+                    "garlic",
+                    "olive oil",
+                    "salt"
+                ],
+                "cookingMethod": "Season the lamb rack with salt and pepper, and sear it in a hot pan with olive oil. Add rosemary and garlic, and roast in the oven at 200C for 15-20 minutes.",
+                "rating": 4.2
+            },
+            {
+                "name": "Pan-Seared Scallops",
+                "ingredients": [
+                    "scallops",
+                    "butter",
+                    "lemon",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Season the scallops with salt and pepper. Melt butter in a hot pan, and add the scallops. Sear for 1-2 minutes on each side, and serve with a squeeze of lemon.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "864213",
+        "chefName": "John Smith",
+        "chefPicture": "https://i.ibb.co/qYLrHfL/types-of-chefs-1-1.jpg",
+        "description": "John Smith is an award-winning chef with over 20 years of experience in French cuisine.",
+        "numRecipes": 3,
+        "yearsExperience": 12,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipe_name": "Coq au Vin",
+                "ingredients": [
+                    "chicken",
+                    "red wine",
+                    "bacon",
+                    "mushrooms",
+                    "onion"
+                ],
+                "cooking_method": "Preheat oven to 350°F. Brown bacon in a large skillet over medium-high heat. Add chicken and cook until browned. Remove chicken and bacon and set aside. Add mushrooms and onion to the skillet and cook until softened. Add red wine and stir to combine. Add chicken and bacon back to the skillet. Cover and bake in the oven for 45 minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "eggplant",
+                    "zucchini",
+                    "red bell pepper",
+                    "onion",
+                    "garlic"
+                ],
+                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "rating": 4.0
+            },
+            {
+                "recipe_name": "Creme Brulee",
+                "ingredients": [
+                    "heavy cream",
+                    "sugar",
+                    "egg yolks",
+                    "vanilla extract"
+                ],
+                "cooking_method": "Preheat oven to 325°F. Heat heavy cream in a saucepan until just simmering. Whisk together sugar, egg yolks, and vanilla extract. Slowly pour the hot cream into the egg mixture, whisking constantly. Pour the custard into ramekins. Bake for 30-35 minutes, until set. Chill in the refrigerator for at least 2 hours. Sprinkle sugar over the top of each ramekin and use a kitchen torch to caramelize the sugar.",
+                "rating": 5.0
+            }
+        ]
+    },
+    {
+        "id": "567890",
+        "chefName": "Lucinda Nguyen",
+        "chefPicture": "https://i.ibb.co/DW3250D/Chef-Captions-for-Instagram-0-1.jpg",
+        "description": "Lucinda Nguyen is a chef, author, and food activist. She is the founder and owner of Chez Panisse, a Berkeley, California restaurant famous for its organic, locally-sourced cuisine.",
+        "numRecipes": 3,
+        "yearsExperience": 23,
+        "likes": 1000,
+        "recipes": [
+            {
+                "name": "Roasted Beets with Citrus Dressing",
+                "ingredients": [
+                    "Beets",
+                    "Oranges",
+                    "Lemons",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roast the beets in the oven until tender. Mix the citrus juice and olive oil together to make a dressing. Slice the beets and toss with the dressing.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pasta with Tomato Sauce",
+                "ingredients": [
+                    "Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Olive oil",
+                    "Basil"
+                ],
+                "cookingMethod": "Cook the pasta according to package instructions. Meanwhile, heat olive oil in a pan and sauté garlic until fragrant. Add chopped tomatoes and cook until they break down. Season with salt and pepper. Toss the pasta with the tomato sauce and basil.",
+                "rating": 4.0
+            },
+            {
+                "name": "Grilled Chicken with Herb Marinade",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Lemon",
+                    "Garlic",
+                    "Olive oil",
+                    "Rosemary"
+                ],
+                "cookingMethod": "Mix lemon juice, garlic, olive oil, and rosemary together to make a marinade. Marinate chicken breasts for at least an hour. Grill until cooked through.",
+                "rating": 4.2
+            }
+        ]
+    }
+]
