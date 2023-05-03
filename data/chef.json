@@ -6,7 +6,7 @@
         "bio": "Madison Chartres is a renowned chef with over 20 years of experience. He has worked in some of the best restaurants in the world, and his dishes have won numerous awards.",
         "numRecipes": 3,
         "yearsExperience": 7,
-        "likes": 500,
+        "likes": 5000,
         "recipes": [
             {
                 "recipeName": "Grilled Salmon",
@@ -53,7 +53,7 @@
         "bio": "Leah Loureiro is a rising star in the culinary world. She has trained under some of the top chefs in the industry, and her innovative dishes have won her many fans.",
         "numRecipes": 3,
         "yearsExperience": 8,
-        "likes": 200,
+        "likes": 2000,
         "recipes": [
             {
                 "recipeName": "Risotto",
@@ -68,7 +68,7 @@
                 "rating": 4.7
             },
             {
-                "recipe_name": "Ratatouille",
+                "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
                     "zucchini",
@@ -76,7 +76,7 @@
                     "onion",
                     "garlic"
                 ],
-                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "cookingMethod": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
                 "rating": 4.0
             },
             {
@@ -103,7 +103,7 @@
         "likes": 800000,
         "recipes": [
             {
-                "name": "Pesto Pasta",
+                "recipeName": "Pesto Pasta",
                 "ingredients": [
                     "pasta",
                     "basil",
@@ -127,7 +127,7 @@
                 "rating": 4.5
             },
             {
-                "name": "Grilled Chicken with Herb Marinade",
+                "recipeName": "Grilled Chicken with Herb Marinade",
                 "ingredients": [
                     "Chicken breasts",
                     "Lemon",
@@ -139,7 +139,7 @@
                 "rating": 4.2
             },
             {
-                "name": "Fish and Chips",
+                "recipeName": "Fish and Chips",
                 "ingredients": [
                     "white fish",
                     "potatoes",
@@ -156,13 +156,13 @@
         "id": "135790",
         "chefName": "Gordon Ramsay",
         "chefPicture": "https://i.ibb.co/kK6yyZD/shutterstock-1518533924-min-1.jpg",
-        "description": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality.",
+        "bio": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality.",
         "numRecipes": 5,
         "yearsExperience": 10,
         "likes": 10000,
         "recipes": [
             {
-                "recipe_name": "Ratatouille",
+                "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
                     "zucchini",
@@ -170,11 +170,11 @@
                     "onion",
                     "garlic"
                 ],
-                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "cookingMethod": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
                 "rating": 4.0
             },
             {
-                "name": "Beef Wellington",
+                "recipeName": "Beef Wellington",
                 "ingredients": [
                     "beef fillet",
                     "puff pastry",
@@ -186,7 +186,7 @@
                 "rating": 4.5
             },
             {
-                "name": "Fish and Chips",
+                "recipeName": "Fish and Chips",
                 "ingredients": [
                     "white fish",
                     "potatoes",
@@ -198,7 +198,7 @@
                 "rating": 4.2
             },
             {
-                "name": "Lamb Rack",
+                "recipeName": "Lamb Rack",
                 "ingredients": [
                     "lamb rack",
                     "rosemary",
@@ -210,7 +210,7 @@
                 "rating": 4.2
             },
             {
-                "name": "Pan-Seared Scallops",
+                "recipeName": "Pan-Seared Scallops",
                 "ingredients": [
                     "scallops",
                     "butter",
@@ -227,13 +227,13 @@
         "id": "864213",
         "chefName": "John Smith",
         "chefPicture": "https://i.ibb.co/qYLrHfL/types-of-chefs-1-1.jpg",
-        "description": "John Smith is an award-winning chef with over 20 years of experience in French cuisine.",
+        "bio": "John Smith is an award-winning chef with over 12 years of experience in French cuisine.",
         "numRecipes": 3,
         "yearsExperience": 12,
         "likes": 1000,
         "recipes": [
             {
-                "recipe_name": "Coq au Vin",
+                "recipeName": "Coq au Vin",
                 "ingredients": [
                     "chicken",
                     "red wine",
@@ -241,11 +241,11 @@
                     "mushrooms",
                     "onion"
                 ],
-                "cooking_method": "Preheat oven to 350°F. Brown bacon in a large skillet over medium-high heat. Add chicken and cook until browned. Remove chicken and bacon and set aside. Add mushrooms and onion to the skillet and cook until softened. Add red wine and stir to combine. Add chicken and bacon back to the skillet. Cover and bake in the oven for 45 minutes.",
+                "cookingMethod": "Preheat oven to 350°F. Brown bacon in a large skillet over medium-high heat. Add chicken and cook until browned. Remove chicken and bacon and set aside. Add mushrooms and onion to the skillet and cook until softened. Add red wine and stir to combine. Add chicken and bacon back to the skillet. Cover and bake in the oven for 45 minutes.",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Ratatouille",
+                "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
                     "zucchini",
@@ -253,18 +253,18 @@
                     "onion",
                     "garlic"
                 ],
-                "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
+                "cookingMethod": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into thin rounds. Arrange the vegetables in a baking dish. 4. Season with salt, pepper, and olive oil. Bake for 45 minutes. Saute onion and garlic until softened. Add the baked vegetables and stir to combine. Serve hot or cold.",
                 "rating": 4.0
             },
             {
-                "recipe_name": "Creme Brulee",
+                "recipeName": "Creme Brulee",
                 "ingredients": [
                     "heavy cream",
                     "sugar",
                     "egg yolks",
                     "vanilla extract"
                 ],
-                "cooking_method": "Preheat oven to 325°F. Heat heavy cream in a saucepan until just simmering. Whisk together sugar, egg yolks, and vanilla extract. Slowly pour the hot cream into the egg mixture, whisking constantly. Pour the custard into ramekins. Bake for 30-35 minutes, until set. Chill in the refrigerator for at least 2 hours. Sprinkle sugar over the top of each ramekin and use a kitchen torch to caramelize the sugar.",
+                "cookingMethod": "Preheat oven to 325°F. Heat heavy cream in a saucepan until just simmering. Whisk together sugar, egg yolks, and vanilla extract. Slowly pour the hot cream into the egg mixture, whisking constantly. Pour the custard into ramekins. Bake for 30-35 minutes, until set. Chill in the refrigerator for at least 2 hours. Sprinkle sugar over the top of each ramekin and use a kitchen torch to caramelize the sugar.",
                 "rating": 5.0
             }
         ]
@@ -273,13 +273,13 @@
         "id": "567890",
         "chefName": "Lucinda Nguyen",
         "chefPicture": "https://i.ibb.co/DW3250D/Chef-Captions-for-Instagram-0-1.jpg",
-        "description": "Lucinda Nguyen is a chef, author, and food activist. She is the founder and owner of Chez Panisse, a Berkeley, California restaurant famous for its organic, locally-sourced cuisine.",
+        "bio": "Lucinda Nguyen is a chef, author, and food activist. She is the founder and owner of Chez Panisse, a Berkeley, California restaurant famous for its organic, locally-sourced cuisine.",
         "numRecipes": 3,
         "yearsExperience": 23,
         "likes": 1000,
         "recipes": [
             {
-                "name": "Roasted Beets with Citrus Dressing",
+                "recipeName": "Roasted Beets with Citrus Dressing",
                 "ingredients": [
                     "Beets",
                     "Oranges",
@@ -291,7 +291,7 @@
                 "rating": 4.5
             },
             {
-                "name": "Pasta with Tomato Sauce",
+                "recipeName": "Pasta with Tomato Sauce",
                 "ingredients": [
                     "Pasta",
                     "Tomatoes",
@@ -303,7 +303,7 @@
                 "rating": 4.0
             },
             {
-                "name": "Grilled Chicken with Herb Marinade",
+                "recipeName": "Grilled Chicken with Herb Marinade",
                 "ingredients": [
                     "Chicken breasts",
                     "Lemon",
