@@ -9,6 +9,7 @@
         "likes": 5000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Grilled Salmon",
                 "ingredients": [
                     "salmon",
@@ -21,6 +22,7 @@
                 "rating": 4.5
             },
             {
+                "id": "2",
                 "recipeName": "Pasta Carbonara",
                 "ingredients": [
                     "pasta",
@@ -33,6 +35,7 @@
                 "rating": 4.8
             },
             {
+                "id": "3",
                 "recipeName": "Beef Stew",
                 "ingredients": [
                     "beef",
@@ -56,6 +59,7 @@
         "likes": 2000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Risotto",
                 "ingredients": [
                     "arborio rice",
@@ -68,6 +72,7 @@
                 "rating": 4.7
             },
             {
+                "id": "2",
                 "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
@@ -80,6 +85,7 @@
                 "rating": 4.0
             },
             {
+                "id": "3",
                 "recipeName": "Shrimp Scampi",
                 "ingredients": [
                     "shrimp",
@@ -103,6 +109,7 @@
         "likes": 800000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Pesto Pasta",
                 "ingredients": [
                     "pasta",
@@ -115,6 +122,7 @@
                 "rating": 4.7
             },
             {
+                "id": "2",
                 "recipeName": "Grilled Salmon",
                 "ingredients": [
                     "salmon",
@@ -127,6 +135,7 @@
                 "rating": 4.5
             },
             {
+                "id": "3",
                 "recipeName": "Grilled Chicken with Herb Marinade",
                 "ingredients": [
                     "Chicken breasts",
@@ -139,6 +148,7 @@
                 "rating": 4.2
             },
             {
+                "id": "4",
                 "recipeName": "Fish and Chips",
                 "ingredients": [
                     "white fish",
@@ -162,6 +172,7 @@
         "likes": 10000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
@@ -174,6 +185,7 @@
                 "rating": 4.0
             },
             {
+                "id": "2",
                 "recipeName": "Beef Wellington",
                 "ingredients": [
                     "beef fillet",
@@ -186,6 +198,7 @@
                 "rating": 4.5
             },
             {
+                "id": "3",
                 "recipeName": "Fish and Chips",
                 "ingredients": [
                     "white fish",
@@ -198,6 +211,7 @@
                 "rating": 4.2
             },
             {
+                "id": "4",
                 "recipeName": "Lamb Rack",
                 "ingredients": [
                     "lamb rack",
@@ -210,6 +224,7 @@
                 "rating": 4.2
             },
             {
+                "id": "5",
                 "recipeName": "Pan-Seared Scallops",
                 "ingredients": [
                     "scallops",
@@ -233,6 +248,7 @@
         "likes": 1000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Coq au Vin",
                 "ingredients": [
                     "chicken",
@@ -245,6 +261,7 @@
                 "rating": 4.5
             },
             {
+                "id": "2",
                 "recipeName": "Ratatouille",
                 "ingredients": [
                     "eggplant",
@@ -257,6 +274,7 @@
                 "rating": 4.0
             },
             {
+                "id": "3",
                 "recipeName": "Creme Brulee",
                 "ingredients": [
                     "heavy cream",
@@ -279,6 +297,7 @@
         "likes": 1000,
         "recipes": [
             {
+                "id": "1",
                 "recipeName": "Roasted Beets with Citrus Dressing",
                 "ingredients": [
                     "Beets",
@@ -291,6 +310,7 @@
                 "rating": 4.5
             },
             {
+                "id": "2",
                 "recipeName": "Pasta with Tomato Sauce",
                 "ingredients": [
                     "Pasta",
@@ -303,6 +323,7 @@
                 "rating": 4.0
             },
             {
+                "id": "3",
                 "recipeName": "Grilled Chicken with Herb Marinade",
                 "ingredients": [
                     "Chicken breasts",
