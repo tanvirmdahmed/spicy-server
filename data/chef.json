@@ -336,5 +336,55 @@
                 "rating": 4.2
             }
         ]
+    },
+    {
+        "id": "867890",
+        "chefName": "Lucinda Nguyen",
+        "chefPicture": "https://i.ibb.co/DW3250D/Chef-Captions-for-Instagram-0-1.jpg",
+        "bio": "Lucinda Nguyen is a chef, author, and food activist. She is the founder and owner of Chez Panisse, a Berkeley, California restaurant famous for its organic, locally-sourced cuisine.",
+        "numRecipes": 3,
+        "yearsExperience": 23,
+        "likes": 1000,
+        "recipes": [
+            {
+                "id": "1",
+                "recipeName": "Roasted Beets with Citrus Dressing",
+                "ingredients": [
+                    "Beets",
+                    "Oranges",
+                    "Lemons",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roast the beets in the oven until tender. Mix the citrus juice and olive oil together to make a dressing. Slice the beets and toss with the dressing.",
+                "rating": 4.5
+            },
+            {
+                "id": "2",
+                "recipeName": "Pasta with Tomato Sauce",
+                "ingredients": [
+                    "Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Olive oil",
+                    "Basil"
+                ],
+                "cookingMethod": "Cook the pasta according to package instructions. Meanwhile, heat olive oil in a pan and sauté garlic until fragrant. Add chopped tomatoes and cook until they break down. Season with salt and pepper. Toss the pasta with the tomato sauce and basil.",
+                "rating": 4.0
+            },
+            {
+                "id": "3",
+                "recipeName": "Grilled Chicken with Herb Marinade",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Lemon",
+                    "Garlic",
+                    "Olive oil",
+                    "Rosemary"
+                ],
+                "cookingMethod": "Mix lemon juice, garlic, olive oil, and rosemary together to make a marinade. Marinate chicken breasts for at least an hour. Grill until cooked through.",
+                "rating": 4.2
+            }
+        ]
     }
 ]
